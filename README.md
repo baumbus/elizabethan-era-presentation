@@ -12,7 +12,18 @@ Material für meine Präsentation mit dem Thema Religion und Aberglaubwürdigkei
 
 - CC BY-SA 4.0 DEED
 
+scala-naturae
+
+- CC BY 4.0
+
+## Benutze Websites
+
+- https://en.wikipedia.org/wiki/Elizabethan_era
+- https://en.wikipedia.org/wiki/Great_chain_of_being
+- https://bbc.co.uk/bitesize/guides/z28vdmn/revision/3
+- https://studyflix.de/englisch/elizabethan-age-4316
+- https://en.wikipedia.org/wiki/Elizabethan_Religious_Settlement
 
 ## License
 
-see LICENSE file
+Siehe "LICENCE" Datei
