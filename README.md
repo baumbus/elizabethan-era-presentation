@@ -18,11 +18,11 @@ scala-naturae
 
 ## Benutze Websites
 
-- https://en.wikipedia.org/wiki/Elizabethan_era
-- https://en.wikipedia.org/wiki/Great_chain_of_being
-- https://bbc.co.uk/bitesize/guides/z28vdmn/revision/3
-- https://studyflix.de/englisch/elizabethan-age-4316
-- https://en.wikipedia.org/wiki/Elizabethan_Religious_Settlement
+- https://en.wikipedia.org/wiki/Elizabethan_era (29.04.2024, 18:31)
+- https://en.wikipedia.org/wiki/Great_chain_of_being (29.04.2024, 18:31)
+- https://bbc.co.uk/bitesize/guides/z28vdmn/revision/3 (29.04.2024, 18:31)
+- https://studyflix.de/englisch/elizabethan-age-4316 (29.04.2024, 18:31)
+- https://en.wikipedia.org/wiki/Elizabethan_Religious_Settlement (29.04.2024, 18:31)
 
 ## License
 
