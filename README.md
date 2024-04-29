@@ -8,7 +8,7 @@ Material für meine Präsentation mit dem Thema Religion und Aberglaubwürdigkei
 
 - CC BY-SA 2.5 DEED
 
-[Holy Trinity Church]
+[Holy Trinity Church](https://en.wikipedia.org/wiki/Church_of_England#/media/File:Holy_trinity_front_8809.jpg)
 
 - CC BY-SA 4.0 DEED
 
