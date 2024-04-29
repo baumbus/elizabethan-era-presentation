@@ -26,4 +26,4 @@ scala-naturae
 
 ## License
 
-Siehe "LICENCE" Datei
+See LICENSE file
